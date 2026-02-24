@@ -4,9 +4,9 @@ description: >-
   Exchange) values following RFC 7636. Supports S256 and plain code challenge
   methods for secure OAuth 2.0 / OpenID Connect authorization code flows.
 version: 1.0.0
-homepage: https://github.com/your-username/pkce_generator
-repository: https://github.com/your-username/pkce_generator
-issue_tracker: https://github.com/your-username/pkce_generator/issues
+homepage: https://github.com/majharul-islam181/pkce_generator
+repository: https://github.com/majharul-islam181/pkce_generator
+issue_tracker: https://github.com/majharul-islam181/pkce_generator/issues
 
 topics:
   - oauth
